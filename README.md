@@ -1,2 +1,2 @@
 # STOP_WATCH
-stop watch with 3 interrupt (inti , stop , reset timer )
+stop watch with 3 interrupt (start , stop , reset timer )
